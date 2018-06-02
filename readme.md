@@ -6,3 +6,5 @@ HOLA MUNDO
  Si estas aburrido haz algo
 
  Realizando cambios porque me equivoque en mi commit 
+
+ Como hacer otros cambios
